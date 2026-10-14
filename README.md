@@ -32,3 +32,7 @@ Productos, ilustraciones y textos son de demostración, no inventario real. No s
 Plantilla genérica llamada Óptica, desarrollada por JPNatMed. No representa ni promociona un local real. Todos los enlaces de contacto apuntan a https://www.instagram.com/jpnatmed/. La clave local `optica-demo-news-v1` evita reutilizar las novedades guardadas en la versión anterior.
 
 Esta modificación está realizada en la copia local; para actualizar un sitio publicado se necesita desplegar esta versión.
+
+## Imágenes de anteojos
+
+Tres imágenes realistas generadas para esta demo (carey, oliva y dorado), guardadas localmente en `public/images/` como WebP con transparencia. No son fotografías de inventario real ni imágenes obtenidas de otro comercio.
