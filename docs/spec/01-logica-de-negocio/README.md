@@ -4,7 +4,7 @@
 
 1. Conoce la propuesta de la óptica desde la portada.
 2. Filtra modelos por Todos, Recetados o Sol y abre un detalle ilustrativo.
-3. Consulta al negocio a través del Instagram real suministrado.
+3. Consulta a JPNatMed por el desarrollo de la plantilla mediante su Instagram.
 4. Lee novedades y ve publicaciones de Instagram directamente en la grilla.
 5. Abre publicaciones y videos en modal dentro de la web.
 
@@ -16,7 +16,7 @@ Los cambios afectan la misma página y sobreviven a una recarga en el mismo nave
 
 ## Contenido externo
 
-Instagram se muestra mediante iframe de la publicación elegida, en tarjeta y modal. YouTube muestra miniatura y reproductor en modal. Las plataformas controlan la disponibilidad: publicaciones privadas, restricciones de incrustación, eliminación o bloqueos de red pueden impedir mostrarlas. El enlace original permanece como alternativa. No se inventan posts o videos de Venus: los espacios iniciales indican que falta agregar contenido real.
+Instagram se muestra mediante iframe de la publicación elegida, en tarjeta y modal. YouTube muestra miniatura y reproductor en modal. Las plataformas controlan la disponibilidad: publicaciones privadas, restricciones de incrustación, eliminación o bloqueos de red pueden impedir mostrarlas. El enlace original permanece como alternativa. No se inventan posts o videos de esta plantilla: los espacios iniciales indican que falta agregar contenido real.
 
 ## Datos pendientes del cliente
 

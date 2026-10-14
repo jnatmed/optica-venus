@@ -1,4 +1,4 @@
-# Óptica Venus · Mockup
+# Óptica · Mockup
 
 React + Vite. Diseño adaptable con prioridad móvil, catálogo filtrable y panel de novedades.
 
@@ -25,4 +25,10 @@ YouTube: miniatura y reproducción dentro de un modal. Instagram: publicaciones 
 
 La especificación está en [docs/spec](docs/spec/README.md); toma la documentación de sistema_tutorial como referencia orientativa.
 
-Productos, ilustraciones y textos son de demostración, no inventario real. No se inventaron horarios, dirección, testimonios, precios ni un teléfono de WhatsApp. El contacto usa el Instagram aportado; para habilitar WhatsApp hace falta el teléfono real. Fuentes remotas de Google Fonts, con fallback local. El contenido externo de Instagram/YouTube requiere conexión.
+Productos, ilustraciones y textos son de demostración, no inventario real. No se inventaron horarios, dirección, testimonios, precios ni un teléfono de WhatsApp. El contacto dirige al Instagram de JPNatMed; para habilitar WhatsApp hace falta el teléfono real. Fuentes remotas de Google Fonts, con fallback local. El contenido externo de Instagram/YouTube requiere conexión.
+
+## Identidad y contacto de la demo
+
+Plantilla genérica llamada Óptica, desarrollada por JPNatMed. No representa ni promociona un local real. Todos los enlaces de contacto apuntan a https://www.instagram.com/jpnatmed/. La clave local `optica-demo-news-v1` evita reutilizar las novedades guardadas en la versión anterior.
+
+Esta modificación está realizada en la copia local; para actualizar un sitio publicado se necesita desplegar esta versión.

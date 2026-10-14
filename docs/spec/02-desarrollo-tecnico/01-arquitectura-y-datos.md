@@ -13,7 +13,7 @@
 
 ## Datos
 
-Clave de localStorage: `venus-news-v1`. Cada entrada contiene `id`, `title`, `description`, `type` (Novedad, Instagram, YouTube), `url`, `active`. Los productos de demostración están definidos en código. Fallas de lectura restauran contenido inicial; fallas de escritura muestran un aviso dentro del panel.
+Clave de localStorage: `optica-demo-news-v1`. Cada entrada contiene `id`, `title`, `description`, `type` (Novedad, Instagram, YouTube), `url`, `active`. Los productos de demostración están definidos en código. Fallas de lectura restauran contenido inicial; fallas de escritura muestran un aviso dentro del panel.
 
 ## Accesibilidad y validación
 

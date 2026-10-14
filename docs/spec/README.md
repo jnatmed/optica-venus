@@ -1,4 +1,4 @@
-# Especificación · Óptica Venus
+# Especificación · Óptica
 
 Estado: mockup funcional local. Fecha: 08/10/2026.
 
@@ -11,7 +11,7 @@ La organización toma como referencia `sistema_tutorial/docs/spec`: lógica de n
 
 ## Objetivo
 
-Preparar una propuesta presentable para el primer cliente freelance: una óptica con catálogo visual, contacto y novedades elegidas por el negocio. Prioridad móvil con composición profesional para escritorio. Referencias visuales: portada y secciones de Lab42, y contenido social visible de Siochana Visión, aportado en captura. Identidad visual propuesta para Venus: verde bosque, crema, tipografía editorial e ilustraciones originales de anteojos.
+Preparar una propuesta presentable para el primer cliente freelance: una óptica con catálogo visual, contacto y novedades elegidas por el negocio. Prioridad móvil con composición profesional para escritorio. Referencias visuales: portada y secciones de Lab42, y contenido social visible de Siochana Visión, aportado en captura. Identidad visual propuesta para la plantilla Óptica: verde bosque, crema, tipografía editorial e ilustraciones originales de anteojos.
 
 ## Límites
 
